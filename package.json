@@ -1,5 +1,5 @@
 {
-  "name": "fivebeans",
+  "name": "fivebeans-icollege",
   "description": "beanstalkd client & worker daemon for node.",
   "version": "1.2.0",
   "author": "C J Silverio <ceejceej@gmail.com>",
