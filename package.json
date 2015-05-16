@@ -6,7 +6,7 @@
   "bin": {
     "beanworker": "./bin/beanworker"
   },
-  "bugs": "http://github.com/ceejbot/fivebeans/issues",
+  "bugs": "https://github.com/djtu-association/fivebeans/issues",
   "config": {
     "blanket": {
       "pattern": [
@@ -26,7 +26,8 @@
   },
   "contributors": [
     "Jon Keating <jon@licq.org>",
-    "Jevgenij Tsoi <jevgenij@virtusize.com>"
+    "Jevgenij Tsoi <jevgenij@virtusize.com>",
+    "He Li <jet.in.brain@gmail.com>"
   ],
   "dependencies": {
     "js-yaml": "^3.0.1",
@@ -51,7 +52,7 @@
   "main": "index",
   "repository": {
     "type": "git",
-    "url": "git://github.com/ceejbot/fivebeans.git"
+    "url": "git://github.com/djtu-association/fivebeans.git"
   },
   "scripts": {
     "test": "mocha -t 8000 --check-leaks --ui exports --require patched-blanket -R mocoverage test/test-*.js",
